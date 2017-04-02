@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="margin_padding_2">2dp</dimen>
+    <dimen name="margin_padding_4">4dp</dimen>
+    <dimen name="margin_padding_8">8dp</dimen>
+    <dimen name="margin_padding_12">12dp</dimen>
+    <dimen name="margin_padding_16">16dp</dimen>
+    <dimen name="margin_padding_24">24dp</dimen>
+    <dimen name="margin_padding_32">32dp</dimen>
+    <dimen name="margin_padding_40">40dp</dimen>
+    <dimen name="margin_padding_48">48dp</dimen>
+    <dimen name="et_padding">12dp</dimen>
+    <dimen name="elevation_1">1dp</dimen>
+    <dimen name="elevation_2">2dp</dimen>
+    <dimen name="elevation_4">4dp</dimen>
+    <dimen name="bottom_navbar_size_48">48dp</dimen>
+    <dimen name="radius_small">2dp</dimen>
+    <dimen name="btn_post_width">64dp</dimen>
+    <dimen name="btn_post_height">32dp</dimen>
+</resources>

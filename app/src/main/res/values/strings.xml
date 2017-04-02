@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Tower Safety</string>
+    <string name="username">Username</string>
+    <string name="login">Login</string>
+    <string name="trouble_sign_in">Trouble sign in?</string>
+    <string name="sign_up"><u>Sign Up</u></string>
+    <string name="att_users_click_here"><u>ATT users click here</u></string>
+    <string name="password">Password</string>
+    <string name="dashboard">Dashboard</string>
+    <string name="geolocator">Geolocator</string>
+    <string name="reports">Reports</string>
+    <string name="meter">Meter</string>
+    <string name="assigned">Assigned</string>
+    <string name="closed">Closed</string>
+    <string name="unassigned">Unassigned</string>
+    <string name="completed">Completed</string>
+    <string name="ticket">Ticket</string>
+    <string name="title_activity_maps">Map</string>
+</resources>
